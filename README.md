@@ -16,7 +16,7 @@ Aquest es el meu nou projecte.
 ### Features
 | Feature | Description | Status |
 |---------|------------ |--------|
-| Compilated 24/7 | El meu IDE et compilarà el codi ell sol | WIP |
+| Compilated 24/7 | El meu IDE et compilar formateja el codi ell sol | WIP |
 | Safe use | L'IDE estarà guardant constantment | Completed |
 | Clean code | El codi es molt clar | Completed |
 
