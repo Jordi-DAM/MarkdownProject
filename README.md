@@ -1,5 +1,7 @@
 # Markdown and Git Homework.
-Aquest es el meu nou projecte
+Aquest es el meu nou projecte.
+
+[Documentació de Git](https://git-scm.com/doc)
 
 ## Table of Contents.
 - [Introduction](#introduction) 
