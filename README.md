@@ -11,7 +11,7 @@ Aquest es el meu nou projecte.
 - [License](#license)
 
 ### Introduction
-
+![Project Logo](images/logo.png)
 ### Features
 
 ### Installation
