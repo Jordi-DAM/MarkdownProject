@@ -11,8 +11,14 @@ Aquest es el meu nou projecte.
 - [License](#license)
 
 ### Introduction
-![Project Logo](images/logo.png)S
+![Project Logo](images/logo.png)
+
 ### Features
+| Feature | Description | Status |
+|---------|------------ |--------|
+| Compilated 24/7 | El meu IDE et compilarà el codi ell sol | WIP |
+| Safe use | L'IDE estarà guardant constantment | Completed |
+| Clean code | El codi es molt clar | Completed |
 
 ### Installation
 
