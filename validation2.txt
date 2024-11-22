@@ -1,0 +1,143 @@
+commit 215e99a9a0f48e4267f1c18de806f89f61401a6e
+Merge: e91d4ba 7048094
+Author: Jordi-DAM <21755948h@iespoblenou.org>
+Date:   Fri Nov 22 20:58:26 2024 +0100
+
+    Merge pull request #2 from Jordi-DAM/feature/1-contribution-guidelines
+    
+    Add contribution guidelines
+
+commit 70480947cd5fdbe38b6bb9bc33fc48b5447ed38a
+Author: Jordi <21755948h@iespoblenou.org>
+Date:   Fri Nov 22 20:54:00 2024 +0100
+
+    Add contribution guidelines
+
+ CONTRIBUTING.md | 23 +++++++++++++++++++++++
+ 1 file changed, 23 insertions(+)
+
+commit e91d4ba039103d5ffa7c5b177f515f681ac63432
+Author: Jordi <21755948h@iespoblenou.org>
+Date:   Thu Nov 21 19:05:09 2024 +0100
+
+    Update Introduction of README.md
+
+ README.md | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit c4ffdfa8e3ef34f949d3fb6e833f4887d659687c
+Author: Jordi <21755948h@iespoblenou.org>
+Date:   Thu Nov 21 18:32:28 2024 +0100
+
+    Add validation 1 file
+
+ validation1.txt | 107 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 107 insertions(+)
+
+commit 82323afe715707a572d7ac8f339a68e60b90fdd3
+Author: Jordi <21755948h@iespoblenou.org>
+Date:   Thu Nov 21 18:18:50 2024 +0100
+
+    Merge add-license branch into main
+
+ LICENSE.md | 8 ++++++++
+ 1 file changed, 8 insertions(+)
+
+commit 4ba9f6f406be05b43ff8bd9eecdd4778f14e65cc
+Author: Jordi <21755948h@iespoblenou.org>
+Date:   Thu Nov 21 18:13:56 2024 +0100
+
+    Enhance README with formatting
+
+ README.md | 34 +++++++++++++++++++++++++++++++++-
+ 1 file changed, 33 insertions(+), 1 deletion(-)
+
+commit 0d58d93673edac481fcb5981585d1e5206a6b1e2
+Author: Jordi <21755948h@iespoblenou.org>
+Date:   Tue Nov 12 09:51:09 2024 +0100
+
+    Corrected another mistake in a description
+
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit c61023ede3a54530b6ad40a82191dd43ed031726
+Author: Jordi <21755948h@iespoblenou.org>
+Date:   Tue Nov 12 09:50:07 2024 +0100
+
+    Corrected a mistake in a description
+
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 775941beca65364627f0f1d282fbd20645921473
+Author: Jordi <21755948h@iespoblenou.org>
+Date:   Tue Nov 12 09:49:07 2024 +0100
+
+    Add feature lis table to README
+
+ README.md | 8 +++++++-
+ 1 file changed, 7 insertions(+), 1 deletion(-)
+
+commit 214a16040271d641291467abf6845b7952e97158
+Author: Jordi <21755948h@iespoblenou.org>
+Date:   Tue Nov 12 09:43:57 2024 +0100
+
+    Added images to have a clean status feed
+
+ images/logo.png | Bin 0 -> 102037 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 4659b8224bac78e3e93f4753fd11a1f6060c80ab
+Author: Jordi <21755948h@iespoblenou.org>
+Date:   Tue Nov 12 09:31:27 2024 +0100
+
+    Add project logo to README
+
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 21154597e2bd166e062f71b465dec5b5656cbe8d
+Author: Jordi <21755948h@iespoblenou.org>
+Date:   Tue Nov 12 09:22:00 2024 +0100
+
+    Add project logo to README
+
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit d3064d1a33d0433df9c2248be223ba4fb656473d
+Author: Jordi <21755948h@iespoblenou.org>
+Date:   Tue Nov 12 09:16:34 2024 +0100
+
+    Add hyperlinks and sections to README
+
+ README.md | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+commit 39036858208ba11683c982855875b1d703771b0f
+Author: Jordi <21755948h@iespoblenou.org>
+Date:   Tue Nov 12 09:13:03 2024 +0100
+
+    Add Table of Contents to README
+
+ README.md | 16 ++++++++++++++++
+ 1 file changed, 16 insertions(+)
+
+commit 9701260298fce08814485a12e5de3c8cb377fbee
+Author: Jordi <21755948h@iespoblenou.org>
+Date:   Tue Nov 12 08:50:02 2024 +0100
+
+    Add README with project introduction
+
+ README.md | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit 0dc6cd440f24e52925f3d1f318d245c9b27102a8
+Author: Jordi <21755948h@iespoblenou.org>
+Date:   Tue Nov 12 08:43:58 2024 +0100
+
+    Initial commit with .gitignore
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
